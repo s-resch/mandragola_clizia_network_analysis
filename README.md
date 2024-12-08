@@ -4,7 +4,7 @@ Repository containing material for a digital network analysis using Gephi and Py
 
 # Textual material
 
-The digital text versions of _Mandragola_ and _Clizia_ used for the analysis are taken from _DraCor_ (https://dracor.org/), which themselves derive from _Biblioteca Italiana_ (http://www.bibliotecaitaliana.it/). The text files are named as "\_Interaction" files as they contain the enhancements made by Sascha Resch in order to extract an interactional network. Still, they were used for retrieving the co-occurences, as well, as the annotations for the interaction graph don't remove information about co-occurences. For detailed references see Sascha Resch's essay "Mandragola und Clizia aus der Perspektive der digitalen Netzwerkanalyse". You can find the further annotated versions of these TEI XML files in this repoaitory
+The digital text versions of _Mandragola_ and _Clizia_ used for the analysis are taken from _DraCor_ (https://dracor.org/), which themselves derive from _Biblioteca Italiana_ (http://www.bibliotecaitaliana.it/). The text files are named as "\_Interaction" files as they contain the enhancements made by Sascha Resch in order to extract an interactional network. Still, they were used for retrieving the co-occurences, as well, as the annotations for the interaction graph don't remove information about co-occurences. For detailed references see Sascha Resch's essay "Mandragola und Clizia aus der Perspektive der digitalen Netzwerkanalyse". You can find the further annotated versions of these TEI XML files in this repository
 
 # Results/Python scripts
 
